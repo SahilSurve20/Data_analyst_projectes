@@ -1,1 +1,14 @@
+# Supply Chain Management Dashboard
 
+This project focuses on visualizing and optimizing the supply chain process for XYZ Company, providing insights on product performance, profitability, and shipping costs.
+
+### Features:
+- Analysis of shipping costs and transportation modes.
+- Product-wise revenue and profitability insights.
+- Optimization recommendations for lead times and cost efficiency.
+- Tableau dashboard for visualizing trends and decision-making.
+
+### Files Included:
+- `Supply_Chain_Dashboard.twbx`: Tableau dashboard.
+- `supply_chain_data.csv`: Dataset.
+- `supply_chain_analysis' :ppt
