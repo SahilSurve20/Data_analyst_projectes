@@ -1,1 +1,14 @@
+# HR Analytics Dashboard
 
+This project aims to analyze employee attrition data and help XYZ Company reduce turnover rates by identifying key factors leading to employee exits.
+
+### Features:
+- Attrition analysis based on factors like job satisfaction, department, and age group.
+- Predictive analysis for error rates in employee turnover.
+- Data cleaning and preprocessing done using Python.
+- Dashboard created using Tableau to visualize key trends and insights.
+
+### Files Included:
+- `HR_Analytics_Dashboard.twbx`: Tableau dashboard.
+- `employee_attrition.csv`: Dataset.
+- `attrition_analysis.py`: PPT
